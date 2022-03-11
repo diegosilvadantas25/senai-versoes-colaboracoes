@@ -2,4 +2,6 @@
 repositorio de versoes e colaboracoes
 readme de exemplo
 
+
 lembrei do comando: git commit
+lembrei do comando: git status
